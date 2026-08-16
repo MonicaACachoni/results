@@ -1,0 +1,16 @@
+1 Caieiras 6
+2 Cajamar 6
+3 Francisco-Morato 6
+4 Franco-da-Rocha 6
+5 Mairipora 6
+6 Aruja 6
+7 Biritiba-Mirim 6
+8 Ferraz-de-Vasconcelos 6
+9 Guararema 6
+10 Guarulhos 6
+11 Itaquaquecetuba 6
+12 Mogi-das-Cruzes 6
+13 Poa 6
+14 Salesopolis 6
+15 Santa-Isabel 6
+16 Suzano 6

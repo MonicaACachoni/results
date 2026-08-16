@@ -1,0 +1,16 @@
+homo-cruza-5e-50d-4c-5t-50v-200l-30i-1000-1200-1500s-1000-1200-1500n.txt
+estacoes 5
+tamanho do trecho entre estações 50
+tamanho do trecho interno das estações mmat 3
+tamanho do trecho entre estações mmat 47
+capacidade 4
+trens 5
+velocidade 50
+tamanho 200
+intervalo 30
+parar S 1000
+retroceder S 1200
+manter parado S 1500
+parar N 1000
+retroceder N 1200
+manter parado N 1500

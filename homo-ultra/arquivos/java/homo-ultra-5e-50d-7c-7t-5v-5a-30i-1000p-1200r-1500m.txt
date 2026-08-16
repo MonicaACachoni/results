@@ -1,0 +1,15 @@
+homo-ultra-5e-50d-7c-7t-5v-5a-30i-1000p-1200r-1500m.txt
+estacoes 5
+tamanho do trecho entre estações 50
+tamanho do trecho interno das estações MM 3
+tamanho do trecho entre estações MM 46.25
+capacidade 7
+trens 7
+velocidade 5
+aumento de velocidade 5
+tamanho 200
+intervalo 30
+parar S 1000
+retroceder S 1200
+manter parado S 1500
+random seed 293939968

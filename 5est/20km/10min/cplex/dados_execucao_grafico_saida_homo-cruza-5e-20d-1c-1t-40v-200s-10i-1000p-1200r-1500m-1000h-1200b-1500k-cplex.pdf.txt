@@ -1,0 +1,4 @@
+Tempo de execução do modelo: 0.0047031 segundos.
+Tempo para encontrar a solução ótima: 0.0020988 segundos.
+Status da solução: OPTIMAL
+Valores de Xa:

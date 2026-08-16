@@ -1,0 +1,4 @@
+Cenário=> EFC Tempo de execução do algoritmo: 203
+Trem 0	2021-08-15T10:44	2021-08-15T17:04:51	PT6H20M51S
+Trem 1	2021-08-15T10:44	2021-08-15T22:25:49	PT11H41M49S
+---------------------

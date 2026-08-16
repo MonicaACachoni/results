@@ -1,0 +1,10 @@
+1 Caieiras 4
+2 Cajamar 4
+3 Francisco-Morato 4
+4 Franco-da-Rocha 4
+5 Mairipora 4
+6 Aruja 4
+7 Biritiba-Mirim 4
+8 Ferraz-de-Vasconcelos 4
+9 Guararema 4
+10 Guarulhos 4

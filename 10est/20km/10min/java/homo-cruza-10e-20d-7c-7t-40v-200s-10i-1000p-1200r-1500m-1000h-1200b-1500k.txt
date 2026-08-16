@@ -1,0 +1,17 @@
+fout
+estacoes 10
+tamanho do trecho entre estações 20
+tamanho do trecho interno das estações mmat 3
+tamanho do trecho entre estações mmat 16.6666666666667
+capacidade 7
+trens 7
+velocidade 40
+tamanho 200
+intervalo 10
+parar I 1000
+retroceder I 1200
+manter parado I 1500
+parar O 1000
+retroceder O 1200
+manter parado O 1500
+random seed 2895309812

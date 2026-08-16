@@ -1,0 +1,19 @@
+quase-normal-cruza-5e-20d-5c-5t-40v-200s-30i-1000p-1200r-1500m-1000h-1200b-1500k.txt
+estacoes 5
+tamanho do trecho entre estações 20
+tamanho do trecho interno das estações MM 3
+tamanho mínimo de um trecho 3
+capacidade 5
+trens 5
+velocidade 40
+tamanho médio 200
+tamanho mínimo 20
+tamanho máximo 900
+intervalo entre trens 30
+parar I 1000
+retroceder I 1200
+manter parado I 1500
+parar O 1000
+retroceder O 1200
+manter parado O 1500
+random seed 3411567436
